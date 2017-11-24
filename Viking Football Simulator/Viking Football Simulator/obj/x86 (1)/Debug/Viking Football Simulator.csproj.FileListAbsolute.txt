@@ -1,0 +1,8 @@
+C:\Users\nti\Google Drive\Programmering\Viking Football Simulator\Viking Football Simulator\Viking Football Simulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\nti\Google Drive\Programmering\Viking Football Simulator\Viking Football Simulator\Viking Football Simulator\obj\x86\Debug\Viking Football Simulator.csprojResolveAssemblyReference.cache
+C:\Users\nti\Google Drive\Programmering\Viking Football Simulator\Viking Football Simulator\Viking Football Simulator\bin\x86\Debug\Content\img\player1.xnb
+C:\Users\nti\Google Drive\Programmering\Viking Football Simulator\Viking Football Simulator\Viking Football Simulator\bin\x86\Debug\Content\img\player2.xnb
+C:\Users\nti\Google Drive\Programmering\Viking Football Simulator\Viking Football Simulator\Viking Football Simulator\bin\x86\Debug\Viking Football Simulator.exe
+C:\Users\nti\Google Drive\Programmering\Viking Football Simulator\Viking Football Simulator\Viking Football Simulator\bin\x86\Debug\Viking Football Simulator.pdb
+C:\Users\nti\Google Drive\Programmering\Viking Football Simulator\Viking Football Simulator\Viking Football Simulator\obj\x86\Debug\Viking Football Simulator.exe
+C:\Users\nti\Google Drive\Programmering\Viking Football Simulator\Viking Football Simulator\Viking Football Simulator\obj\x86\Debug\Viking Football Simulator.pdb

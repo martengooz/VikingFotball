@@ -1,0 +1,2 @@
+Content\img\player1.xnb
+Content\img\player2.xnb
